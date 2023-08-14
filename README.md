@@ -1,6 +1,6 @@
 # Strivers A2Z DSA Course Solutions
 
-![Strivers A2Z DSA Course](https://takeuforward.org/wp-content/uploads/2021/06/Strivers-DSA-CP-Course-1-1024x439.jpg)
+![Strivers A2Z DSA Course](Resources/ss1.png)
 
 Welcome to my Strivers A2Z DSA Course Solutions repository! Here, you'll find my solutions to various problems from the Strivers A2Z DSA Course Sheet. This repository serves as a collection of my progress and learning journey through the comprehensive Data Structures and Algorithms curriculum provided by the Strivers team.
 
