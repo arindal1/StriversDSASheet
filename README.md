@@ -8,6 +8,8 @@ Welcome to my Strivers A2Z DSA Course Solutions repository! Here, you'll find my
 
 The [Strivers A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) is a highly regarded course designed to equip aspiring software engineers with a strong foundation in Data Structures and Algorithms. The course covers a wide range of topics, from the basics to advanced algorithms, and includes problems that have been frequently asked in technical interviews.
 
+![Strivers A2Z DSA Course](Resources/ss2.png)
+
 ## Repository Structure
 
 The repository is organized based on the topics covered in the Strivers A2Z DSA Course Sheet. Each topic has its own directory containing solutions to problems related to that topic. The structure is as follows:
