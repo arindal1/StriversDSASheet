@@ -37,7 +37,7 @@ If you're interested in exploring my solutions, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Strivers-A2Z-DSA-Solutions.git
+   git clone https://github.com/arindal1/StriversDSASheet.git
    ```
 
 2. Navigate to the directory corresponding to the topic and problem difficulty you're interested in.
