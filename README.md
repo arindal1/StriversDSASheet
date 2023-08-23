@@ -30,6 +30,28 @@ The repository is organized based on the topics covered in the Strivers A2Z DSA 
 - ... (Similar structure for other topics)
 ```
 
+### Fast Travel
+
+| #  | Topic | Links |
+|:--:||:---------|:--------:|
+| 01 | Learn the Basics | [link](https://github.com/arindal1/StriversDSASheet/tree/main/1.%20Basics) |
+| 02 | Learn Important Sorting Techniques | [link](https://github.com/arindal1/StriversDSASheet/tree/main/2.Sorting) |
+| 03 | Solve problems on Arrays | [link](https://github.com/arindal1/StriversDSASheet/tree/main/3.%20Arrays) |
+| 04 | Binary Search | [link](https://github.com/arindal1/StriversDSASheet/tree/main/4.%20Binary%20Search) |
+| 05 | Strings | [link](https://github.com/arindal1/StriversDSASheet/tree/main/5.%20Strings) |
+| 06 | Learn Linked List | [link](https://github.com/arindal1/StriversDSASheet/tree/main/6.%20Linked%20Lists) |
+| 07 | Recursion | [link](https://github.com/arindal1/StriversDSASheet/tree/main/7.%20Recursion) |
+| 08 | Bit Manipulation | [link](https://github.com/arindal1/StriversDSASheet/tree/main/8.%20Bit%20Manipulation) |
+| 09 | Stack and Queues | [link](https://github.com/arindal1/StriversDSASheet/tree/main/9.%20Stack%20%26%20Queues) |
+| 11 | Slinding Window & Two Pointers | link |
+| 12 | Heaps | links |
+| 13 | Greedy Algorithms | link |
+| 14 | Binary Trees | link |
+| 15 | Graphs | link |
+| 16 | Dynamic Programming | link |
+| 17 | Tries | link |
+| 18 | More on Strings | link |
+
 ## Getting Started
 
 If you're interested in exploring my solutions, follow these steps:
