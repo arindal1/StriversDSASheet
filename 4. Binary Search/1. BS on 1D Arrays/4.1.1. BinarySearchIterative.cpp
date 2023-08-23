@@ -35,7 +35,9 @@ int main()
         cin >> a;
         arr.push_back(a);
     }
-    int target = 6;
+    int target;
+    cout << "Enter the target: ";
+    cin >> target;
     int ind = binarySearch(arr, target, n);
     if (ind == -1)
         cout << "The target is not present." << endl;
