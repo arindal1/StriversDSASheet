@@ -33,7 +33,7 @@ The repository is organized based on the topics covered in the Strivers A2Z DSA 
 ### Fast Travel
 
 | #  | Topic | Links |
-|:--:||:---------|:--------:|
+|:--:|:---------|:--------:|
 | 01 | Learn the Basics | [link](https://github.com/arindal1/StriversDSASheet/tree/main/1.%20Basics) |
 | 02 | Learn Important Sorting Techniques | [link](https://github.com/arindal1/StriversDSASheet/tree/main/2.Sorting) |
 | 03 | Solve problems on Arrays | [link](https://github.com/arindal1/StriversDSASheet/tree/main/3.%20Arrays) |
