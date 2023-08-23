@@ -15,7 +15,7 @@ Explanation: All permutations of {1,2,3} are {{1,2,3} , {1,3,2}, {2,13} , {2,3,1
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<int> nextGreaterPermutation(vector<int> &A, int n) {
+void nextGreaterPermutation(vector<int> &A, int n) {
     int ind = -1;
     for (int i = n - 2; i >= 0; i--) {
         if (A[i] < A[i + 1]) {
@@ -37,7 +37,11 @@ vector<int> nextGreaterPermutation(vector<int> &A, int n) {
     }
 
     reverse(A.begin() + ind + 1, A.end());
-    return A;
+    cout << "The next permutation is: [";
+    for (auto it : A) {
+        cout << it << " ";
+    }
+    cout << "]n";
 }
 
 int main()
